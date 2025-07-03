@@ -17,11 +17,6 @@ REFERER = urllib.parse.urljoin(BASE_URL, "flptapes.html")
 FLP_PLAYLIST = [
     {
         "title": "<span>#1</span> Atoms in motion (9/26/61)",
-        "m4a": "protectedaudio/mp4/FLP_1_01.mp4",
-        "oga": "protectedaudio/ogg/FLP_1_01.ogg",
-    },
-    {
-        "title": "<span>#1R</span> Atoms in motion, reconstructed (9/26/2024)",
         "m4a": "protectedaudio/mp4/FLP_1_01R.mp4",
         "oga": "protectedaudio/ogg/FLP_1_01R.ogg",
     },

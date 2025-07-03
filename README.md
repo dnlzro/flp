@@ -33,3 +33,7 @@ python download.py
   - **Note:** Dates are included by default for easier organization (sorting).
 - `--overwrite`: Overwrite existing files
 - `-v, --verbose`: Enable verbose output
+
+## Disclaimer
+
+The Feynman Lectures on Physics are made freely available by the California Institute of Technology for educational use. Please respect the terms of use of the source website and use the downloaded content in accordance with applicable copyright laws and educational fair use guidelines.
